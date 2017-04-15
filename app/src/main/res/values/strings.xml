@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">日常管理</string>
+    <string name="action_settings">Settings</string>
+    <string name="slide_exit_app">退出</string>
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawer Close</string>
+    <string name="cancel_add">返回</string>
+    <string name="add_confirm">确定</string>
+    <string name="contact">通讯录</string>
+    <string name="memo">备忘录</string>
+    <string name="diary">日记</string>
+    <string name="affair">事务</string>
+    <string name="search_hint">输入关键字搜索</string>
+</resources>
